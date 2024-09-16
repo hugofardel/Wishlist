@@ -1,0 +1,51 @@
+[
+	{
+		"id": "1",
+		"name": "Patrick Jane",
+		"products": [
+			{
+				"id": "1",
+				"name": "Produit 1",
+				"description": "Ceci est un sac",
+				"imageUrl": "",
+				"comments": [
+					{
+						"id": "c1",
+						"author": "Maeva Chette",
+						"content": "Ceci est un commentaire"
+					},
+					{
+						"id": "c2",
+						"author": "Noemie Lattri",
+						"content": "Ceci est un commentaire"
+					}
+				]
+			},
+			{ "id": "2", "name": "Produit 2", "description": "Description du produit", "imageUrl": "", "comments": [] },
+			{ "id": "3", "name": "Produit 3", "description": "Description du produit", "imageUrl": "", "comments": [] }
+		]
+	},
+	{
+		"id": "2",
+		"name": "Jean Pierre",
+		"products": [
+			{ "id": "4", "name": "Produit 4", "description": "Description du produit", "imageUrl": "", "comments": [] },
+			{ "id": "5", "name": "Produit 5", "description": "Description du produit", "imageUrl": "", "comments": [] },
+			{ "id": "6", "name": "Produit 6", "description": "Description du produit", "imageUrl": "", "comments": [] }
+		]
+	},
+	{
+		"id": "3",
+		"name": "Manon Pirrot",
+		"products": [
+			{ "id": "7", "name": "Produit 7", "description": "Description du produit", "imageUrl": "", "comments": [] },
+			{ "id": "8", "name": "Produit 8", "description": "Description du produit", "imageUrl": "", "comments": [] },
+			{ "id": "9", "name": "Produit 9", "description": "Description du produit", "imageUrl": "", "comments": [] }
+		]
+	},
+	{
+		"id": "4",
+		"name": "Jack Lomiel",
+		"products": []
+	}
+]

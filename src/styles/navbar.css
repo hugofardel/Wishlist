@@ -1,0 +1,36 @@
+header {
+	display: flex;
+	align-items: center;
+	background-color: #121212;
+	border-radius: 20px;
+	padding: 10px 25px;
+}
+
+header nav {
+	width: 100%;
+}
+
+header nav ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 25px;
+	list-style: none;
+	color: white;
+}
+
+header nav ul li a {
+	color: white;
+	font-weight: 500;
+}
+
+header nav ul li a.active {
+	padding: 5px 15px;
+	border-radius: 25px;
+	background-color: #fff;
+	color: #121212;
+}
+
+header nav button {
+	color: #999;
+}
