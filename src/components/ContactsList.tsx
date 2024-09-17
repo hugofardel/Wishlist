@@ -1,6 +1,6 @@
 import { Contact } from "../types/contact.ts";
 import avatar1 from "../assets/avatar1.svg"
-import { useContacts } from "../hooks/useContacts.tsx";
+import useContacts from "../hooks/useContacts.tsx";
 
 interface PropsContactsList {
     contactsFiltered: Contact[];

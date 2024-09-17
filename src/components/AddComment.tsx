@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useContacts } from "../hooks/useContacts.tsx";
+import useContacts from "../hooks/useContacts.tsx";
 
 
 const AddComment = () => {
